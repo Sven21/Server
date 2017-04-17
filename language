@@ -1,0 +1,80 @@
+Waiting-For-Players-Message: "Asteptam jucatorii... Mai avem nevoie de \xc2\xa7b%MINPLAYERS%\xc2\
+  \xa77 jucatori pentru a incepe."
+Enough-Players-To-Start: Acum sunt destui jucatori pentru a incepe, asa ca jocul o sa inceapa !
+The-Game-Has-Started: Jocul a inceput! Incepeti constructia baietii!!
+Scoreboard-Header: "\xc2\xa76BuildBattle"
+Scoreboard-Players: "\xc2\xa77Jucatorii "
+Scoreboard-Min-Players-Message: "\xc2\xa77Min Jucatori "
+Scoreboard-Starting-In: "\xc2\xa77Incepe in: "
+SCOREBOARD-Time-Left: "\xc2\xa7c\xc2\xa7lTimp Ramas: "
+SCOREBOARD-Theme: "\xc2\xa7aTema"
+Time-Left-To-Build: "\xc2\xa76%FORMATTEDTIME% \xc2\xa77timp ramas pentru a construii!"
+Cant-Fly-Out-Of-Plot: "\xc2\xa7cNu poti iesi din platforma ta!"
+Voted: "\xc2\xa7aAi votat cu succes!"
+Voting-For-Player-Plot: "\xc2\xa77Voteaza pentru plotul lui \xc2\xa7b%PLAYER%\xc2\xa7\
+  7!"
+Winner-Announcement-Footer-Line: "\xc2\xa7a=============================="
+Waiting-For-Players-Bar-Message: "\xc2\xa76BuildBattle editat de \xc2\xa7bXHARDMC\
+  \ STAFF !"
+Starting-Bar-Message: "\xc2\xa76BuildBattle facut de \xc2\xa7bTomTheDeveloper"
+Time-Left-Bar-Message: "\xc2\xa76Timp ramas:\xc2\xa7b %FORMATTEDTIME%"
+Vote-Time-Left-Bar-Message: "\xc2\xa76Timp ramas pentru a vota:\xc2\xa7b %FORMATTEDTIME%"
+Floor-Option-Name: "\xc2\xa7aMaterialul podelei"
+Floor-Changed: "\xc2\xa7aPodeaua a fost schimbata!"
+Ingame-Menu-Name: Meniul cu optiuni
+Options-Menu-Item: "\xc2\xa7aOptiuni"
+Options-Lore: "\xc2\xa77Click dreapta pentru a-l deschide"
+Drag-And-Drop-Item-Here: Trage si dropeaza un item aici
+To-Change-Floor: pentru a schimba podeaua
+Join: "\xc2\xa7b%PLAYER%\xc2\xa77 a intrat in meci (%PLAYERSIZE%/%MAXPLAYERS%)!"
+Leave: "\xc2\xa7b%PLAYER% \xc2\xa77a iesit din meci (%PLAYERSIZE%/%MAXPLAYERS%)!"
+Death: "\xc2\xa7b%PLAYER% \xc2\xa77a murit!"
+Seconds-Left-Until-Game-Starts: "Jocul incepe in \xc2\xa7b%TIME%\xc2\xa77 secunde!"
+Waiting-For-Players: "Asteptam jucatorii... Avem nevoie de minim \xc2\xa7b%MINPLAYERS%\xc2\
+  \xa77 jucatori pentru a incepe."
+Teleport-To-EndLocation-In-X-Seconds: "Vei fii teleportat in LOBBy in \xc2\xa7b%TIME%\xc2\
+  \xa77 secunde"
+Cant-Vote-On-Own-Plot: "\xc2\xa7cNu poti sa-ti votezi propria platforma!!"
+You-Became-xth: "\xc2\xa7aAcum esti pe locul \xc2\xa72%NUMBER% \xc2\xa7a!"
+Kicked-Game-Already-Started: "\xc2\xa7bKicked! jocul deja a inceput!"
+Particle-Option-Name: "\xc2\xa7aParticule"
+Coming-Soon: "\xc2\xa7cO sa urmeze"
+Heads-Option-Name: "\xc2\xa7aCapete"
+Only-Command-Ingame-Is-Leave: "\xc2\xa7cAi parasit jocul cu o comanda gresita. Comanda\
+  \ functionala este /leave!"
+Particle-Menu-Name: Meniul particulelor
+No-Permission-For-This-Particle: "\xc2\xa7c N-ai permisiune pentru asta!"
+Reached-Max-Amount-Of-Particles: "\xc2\xa7cAi atins limita maxima de particule!"
+Particle-Succesfully-Added: "\xc2\xa7aParticulele au fost adaugate cu succes !"
+Particle-Remove-Menu-Name: Scoate particulele
+Location: 'Locatie: '
+Particle-Removed: "\xc2\xa7aParticulele au fost scoase!"
+Remove-Particle-Item-Lore: Click dreapta pentru a deschide meniul!
+Particle-Option-Lore: "\xc2\xa77Click pentru a deschide meniul"
+Player-Head-Main-Inventory-Name: Capul jucatorului - Meniu
+Starting-In-Title-Screen: "\xc2\xa7aIncepe in \xc2\xa7c%NUMBER"
+STATS-AboveLine: "\xc2\xa7l----- STATS - XHARDMC ----- "
+STATS-Wins: "\xc2\xa7aVictorii: \xc2\xa7e"
+STATS-Loses: "\xc2\xa7aInfrangerii: \xc2\xa7e"
+STATS-Games-Played: "\xc2\xa7aJocuri jucate: \xc2\xa7e"
+STATS-Highest-Win: "\xc2\xa7aCel mai mare castig: \xc2\xa7e"
+STATS-Blocks-Placed: "\xc2\xa7aBlock-uri puse: \xc2\xa7e"
+STATS-Blocks-Broken: "\xc2\xa7aBlock-uri distruse: \xc2\xa7e"
+STATS-Particles-Placed: "\xc2\xa7aParticule puse: \xc2\xa7e"
+STATS-UnderLinen: "\xc2\xa7l--------------------"
+Heads-Option-Lore: "\xc2\xa77Deschide pentru Meniul capului!"
+Kit-Menu: Kit-Menu
+KitUnlockedLoreInKitMenu: "\xc2\xa7aDEBLOCAT!"
+KitLockedLoreInKitMenu: "\xc2\xa7cBLOCAT!"
+Unlocks-at-level: "\xc2\xa7aDeblocheaza la nivel %NUMBER% "
+GAMENAME: BuildBattle
+PREFIX: "\xc2\xa76[BuildBattle] \xc2\xa77"
+Scoreboard-MinPlayers-Message: "\xc2\xa77Min Players: "
+YouAreAlreadyIngame: "\xc2\xa7cYou are already qeued for a game! You can leave a game\
+  \ with /leave."
+Plot-Owner-Title-Message: "\xc2\xa76Plot Owner: \xc2\xa7b%PLAYER%"
+Title-Winner-Message: "\xc2\xa7eWINNER: \xc2\xa7a%PLAYER%"
+Only-Player-Left: "\xc2\xa7cU are the only player left. U will be teleported to the\
+  \ lobby"
+Admin-Set-Starting-In-To-0: "\xc2\xa7bAn admin set waiting time to 0. Game starts\
+  \ now!"
